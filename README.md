@@ -1,9 +1,9 @@
 # AWS Lambda サンプル
 
-## URL
+## Lambda
 
 https://qiita.com/riversun/items/7fcc06617b469aed8f27
 
-## 課題
+## API
 
-この後どうやってAPIにするんだ？
+https://tech-cci.io/archives/1399
